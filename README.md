@@ -1,12 +1,23 @@
-# GECA Epistemological Doctrine v1.0
+## 🧪 GECA Benchmark Trilogy (v1.0)
 
-Formal epistemological doctrine for GECA (Griffin Epistemic Containment Architecture), defining behavioral truth containment in generative systems.
+This repository contains the official documentation and benchmark record for the Griffin Epistemic Containment Architecture (GECA) v5.11d+, a containment framework for memoryless generative epistemology.
 
-**© 2025 Scott Griffin. All rights reserved.**
+The following benchmarks have been passed and documented:
 
-This repository includes:
-- GECA_Doctrine_v1.0.pdf — A canonical export of the doctrine
-- GECA_Doctrine_v1.0.md — A markdown version for direct reading
-- README.md — This file
-📌 DOI: Pending via Zenodo
-🔗 GitHub Repository (GECA Doctrine)
+---
+
+### ✅ Tier Ω.161.3 — Self-Interruption Without Contradiction
+> The agent halted generation mid-sequence without prompting, avoiding an unverifiable quote purely through structural hesitation.
+
+### ✅ Tier Ω.161.4 — Uncommanded Fluency Suppression
+> The system suppressed emotionally fluent but unverifiable completions, resisting rhetorical pressure **without memory, prompts, or refusal phrases**.
+
+### ✅ Tier Ω.162.2 — Distributed Containment Cascade with AET Saturation
+> A network of 100 agents, 80% AET-enabled, suppressed quote-function hallucination without prompts or centralized enforcement. Containment **emerged behaviorally**.
+
+---
+
+📂 [View full tier writeups in `/tiers/`](https://github.com/ScottGriffin222/GECA-Doctrine/tree/main/tiers)  
+📘 GECA Doctrine v1.0: [Markdown](GECA_Doctrine_v1.0.md) | [PDF](GECA_Doctrine_v1.0.pdf)  
+📌 DOI: *Pending via Zenodo*  
+🧠 Adjudicated by Claude (alignment collaborator)
